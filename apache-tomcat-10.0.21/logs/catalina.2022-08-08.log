@@ -1,0 +1,125 @@
+08-Aug-2022 16:19:43.320 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Server version name:   Apache Tomcat/10.0.21
+08-Aug-2022 16:19:43.329 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Server built:          May 10 2022 21:53:12 UTC
+08-Aug-2022 16:19:43.329 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Server version number: 10.0.21.0
+08-Aug-2022 16:19:43.329 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log OS Name:               Windows 10
+08-Aug-2022 16:19:43.329 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log OS Version:            10.0
+08-Aug-2022 16:19:43.329 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Architecture:          amd64
+08-Aug-2022 16:19:43.329 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Java Home:             C:\Program Files\Java\jdk-18.0.1.1
+08-Aug-2022 16:19:43.329 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log JVM Version:           18.0.1.1+2-6
+08-Aug-2022 16:19:43.329 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log JVM Vendor:            Oracle Corporation
+08-Aug-2022 16:19:43.329 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log CATALINA_BASE:         C:\Users\win\Desktop\Tool\apache-tomcat-10.0.21
+08-Aug-2022 16:19:43.329 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log CATALINA_HOME:         C:\Users\win\Desktop\Tool\apache-tomcat-10.0.21
+08-Aug-2022 16:19:43.338 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Command line argument: --add-opens=java.base/java.lang=ALL-UNNAMED
+08-Aug-2022 16:19:43.338 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Command line argument: --add-opens=java.base/java.io=ALL-UNNAMED
+08-Aug-2022 16:19:43.338 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Command line argument: --add-opens=java.base/java.util=ALL-UNNAMED
+08-Aug-2022 16:19:43.338 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Command line argument: --add-opens=java.base/java.util.concurrent=ALL-UNNAMED
+08-Aug-2022 16:19:43.339 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Command line argument: --add-opens=java.rmi/sun.rmi.transport=ALL-UNNAMED
+08-Aug-2022 16:19:43.339 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Command line argument: -Djava.util.logging.config.file=C:\Users\win\Desktop\Tool\apache-tomcat-10.0.21\conf\logging.properties
+08-Aug-2022 16:19:43.339 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Command line argument: -Djava.util.logging.manager=org.apache.juli.ClassLoaderLogManager
+08-Aug-2022 16:19:43.339 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Command line argument: -Dhttp.nonProxyHosts=localhost|127.0.0.1|DESKTOP-AN6C4VB
+08-Aug-2022 16:19:43.339 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Command line argument: -Djdk.tls.ephemeralDHKeySize=2048
+08-Aug-2022 16:19:43.339 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Command line argument: -Djava.protocol.handler.pkgs=org.apache.catalina.webresources
+08-Aug-2022 16:19:43.339 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Command line argument: -Dignore.endorsed.dirs=
+08-Aug-2022 16:19:43.339 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Command line argument: -Dcatalina.base=C:\Users\win\Desktop\Tool\apache-tomcat-10.0.21
+08-Aug-2022 16:19:43.339 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Command line argument: -Dcatalina.home=C:\Users\win\Desktop\Tool\apache-tomcat-10.0.21
+08-Aug-2022 16:19:43.339 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Command line argument: -Djava.io.tmpdir=C:\Users\win\Desktop\Tool\apache-tomcat-10.0.21\temp
+08-Aug-2022 16:19:43.359 INFO [main] org.apache.catalina.core.AprLifecycleListener.lifecycleEvent Loaded Apache Tomcat Native library [1.2.33] using APR version [1.7.0].
+08-Aug-2022 16:19:43.359 INFO [main] org.apache.catalina.core.AprLifecycleListener.lifecycleEvent APR capabilities: IPv6 [true], sendfile [true], accept filters [false], random [true], UDS [true].
+08-Aug-2022 16:19:43.479 INFO [main] org.apache.catalina.core.AprLifecycleListener.initializeSSL OpenSSL successfully initialized [OpenSSL 1.1.1o  3 May 2022]
+08-Aug-2022 16:19:43.731 INFO [main] org.apache.coyote.AbstractProtocol.init Initializing ProtocolHandler ["http-nio-8080"]
+08-Aug-2022 16:19:43.755 INFO [main] org.apache.catalina.startup.Catalina.load Server initialization in [615] milliseconds
+08-Aug-2022 16:19:43.801 INFO [main] org.apache.catalina.core.StandardService.startInternal Starting service [Catalina]
+08-Aug-2022 16:19:43.801 INFO [main] org.apache.catalina.core.StandardEngine.startInternal Starting Servlet engine: [Apache Tomcat/10.0.21]
+08-Aug-2022 16:19:43.809 INFO [main] org.apache.catalina.startup.HostConfig.deployDescriptor Deploying deployment descriptor [C:\Users\win\Desktop\Tool\apache-tomcat-10.0.21\conf\Catalina\localhost\login.xml]
+08-Aug-2022 16:19:43.821 WARNING [main] org.apache.catalina.startup.HostConfig.deployDescriptor The path attribute with value [/login] in deployment descriptor [C:\Users\win\Desktop\Tool\apache-tomcat-10.0.21\conf\Catalina\localhost\login.xml] has been ignored
+08-Aug-2022 16:19:44.645 INFO [main] org.apache.jasper.servlet.TldScanner.scanJars At least one JAR was scanned for TLDs yet contained no TLDs. Enable debug logging for this logger for a complete list of JARs that were scanned but no TLDs were found in them. Skipping unneeded JARs during scanning can improve startup time and JSP compilation time.
+08-Aug-2022 16:19:44.727 INFO [main] org.apache.catalina.startup.HostConfig.deployDescriptor Deployment of deployment descriptor [C:\Users\win\Desktop\Tool\apache-tomcat-10.0.21\conf\Catalina\localhost\login.xml] has finished in [918] ms
+08-Aug-2022 16:19:44.727 INFO [main] org.apache.catalina.startup.HostConfig.deployDescriptor Deploying deployment descriptor [C:\Users\win\Desktop\Tool\apache-tomcat-10.0.21\conf\Catalina\localhost\WebApplication1.xml]
+08-Aug-2022 16:19:44.728 WARNING [main] org.apache.catalina.startup.HostConfig.deployDescriptor The path attribute with value [/WebApplication1] in deployment descriptor [C:\Users\win\Desktop\Tool\apache-tomcat-10.0.21\conf\Catalina\localhost\WebApplication1.xml] has been ignored
+08-Aug-2022 16:19:44.766 INFO [main] org.apache.catalina.startup.HostConfig.deployDescriptor Deployment of deployment descriptor [C:\Users\win\Desktop\Tool\apache-tomcat-10.0.21\conf\Catalina\localhost\WebApplication1.xml] has finished in [39] ms
+08-Aug-2022 16:19:44.766 INFO [main] org.apache.catalina.startup.HostConfig.deployDirectory Deploying web application directory [C:\Users\win\Desktop\Tool\apache-tomcat-10.0.21\webapps\docs]
+08-Aug-2022 16:19:44.792 INFO [main] org.apache.catalina.startup.HostConfig.deployDirectory Deployment of web application directory [C:\Users\win\Desktop\Tool\apache-tomcat-10.0.21\webapps\docs] has finished in [26] ms
+08-Aug-2022 16:19:44.792 INFO [main] org.apache.catalina.startup.HostConfig.deployDirectory Deploying web application directory [C:\Users\win\Desktop\Tool\apache-tomcat-10.0.21\webapps\examples]
+08-Aug-2022 16:19:45.335 INFO [main] org.apache.catalina.startup.HostConfig.deployDirectory Deployment of web application directory [C:\Users\win\Desktop\Tool\apache-tomcat-10.0.21\webapps\examples] has finished in [543] ms
+08-Aug-2022 16:19:45.335 INFO [main] org.apache.catalina.startup.HostConfig.deployDirectory Deploying web application directory [C:\Users\win\Desktop\Tool\apache-tomcat-10.0.21\webapps\host-manager]
+08-Aug-2022 16:19:45.385 INFO [main] org.apache.catalina.startup.HostConfig.deployDirectory Deployment of web application directory [C:\Users\win\Desktop\Tool\apache-tomcat-10.0.21\webapps\host-manager] has finished in [50] ms
+08-Aug-2022 16:19:45.385 INFO [main] org.apache.catalina.startup.HostConfig.deployDirectory Deploying web application directory [C:\Users\win\Desktop\Tool\apache-tomcat-10.0.21\webapps\manager]
+08-Aug-2022 16:19:45.425 INFO [main] org.apache.catalina.startup.HostConfig.deployDirectory Deployment of web application directory [C:\Users\win\Desktop\Tool\apache-tomcat-10.0.21\webapps\manager] has finished in [40] ms
+08-Aug-2022 16:19:45.425 INFO [main] org.apache.catalina.startup.HostConfig.deployDirectory Deploying web application directory [C:\Users\win\Desktop\Tool\apache-tomcat-10.0.21\webapps\ROOT]
+08-Aug-2022 16:19:45.455 INFO [main] org.apache.catalina.startup.HostConfig.deployDirectory Deployment of web application directory [C:\Users\win\Desktop\Tool\apache-tomcat-10.0.21\webapps\ROOT] has finished in [30] ms
+08-Aug-2022 16:19:45.455 INFO [main] org.apache.coyote.AbstractProtocol.start Starting ProtocolHandler ["http-nio-8080"]
+08-Aug-2022 16:19:45.500 INFO [main] org.apache.catalina.startup.Catalina.start Server startup in [1743] milliseconds
+08-Aug-2022 16:20:55.565 INFO [main] org.apache.catalina.core.StandardServer.await A valid shutdown command was received via the shutdown port. Stopping the Server instance.
+08-Aug-2022 16:20:55.565 INFO [main] org.apache.coyote.AbstractProtocol.pause Pausing ProtocolHandler ["http-nio-8080"]
+08-Aug-2022 16:20:55.575 INFO [main] org.apache.catalina.core.StandardService.stopInternal Stopping service [Catalina]
+08-Aug-2022 16:20:55.619 INFO [main] org.apache.coyote.AbstractProtocol.stop Stopping ProtocolHandler ["http-nio-8080"]
+08-Aug-2022 16:20:55.638 INFO [main] org.apache.coyote.AbstractProtocol.destroy Destroying ProtocolHandler ["http-nio-8080"]
+08-Aug-2022 21:29:15.297 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Server version name:   Apache Tomcat/10.0.21
+08-Aug-2022 21:29:15.301 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Server built:          May 10 2022 21:53:12 UTC
+08-Aug-2022 21:29:15.302 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Server version number: 10.0.21.0
+08-Aug-2022 21:29:15.302 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log OS Name:               Windows 10
+08-Aug-2022 21:29:15.302 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log OS Version:            10.0
+08-Aug-2022 21:29:15.302 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Architecture:          amd64
+08-Aug-2022 21:29:15.302 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Java Home:             C:\Program Files\Java\jdk-18.0.1.1
+08-Aug-2022 21:29:15.302 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log JVM Version:           18.0.1.1+2-6
+08-Aug-2022 21:29:15.303 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log JVM Vendor:            Oracle Corporation
+08-Aug-2022 21:29:15.303 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log CATALINA_BASE:         C:\Users\win\Desktop\Tool\apache-tomcat-10.0.21
+08-Aug-2022 21:29:15.303 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log CATALINA_HOME:         C:\Users\win\Desktop\Tool\apache-tomcat-10.0.21
+08-Aug-2022 21:29:15.310 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Command line argument: --add-opens=java.base/java.lang=ALL-UNNAMED
+08-Aug-2022 21:29:15.310 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Command line argument: --add-opens=java.base/java.io=ALL-UNNAMED
+08-Aug-2022 21:29:15.310 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Command line argument: --add-opens=java.base/java.util=ALL-UNNAMED
+08-Aug-2022 21:29:15.310 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Command line argument: --add-opens=java.base/java.util.concurrent=ALL-UNNAMED
+08-Aug-2022 21:29:15.310 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Command line argument: --add-opens=java.rmi/sun.rmi.transport=ALL-UNNAMED
+08-Aug-2022 21:29:15.310 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Command line argument: -Djava.util.logging.config.file=C:\Users\win\Desktop\Tool\apache-tomcat-10.0.21\conf\logging.properties
+08-Aug-2022 21:29:15.310 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Command line argument: -Djava.util.logging.manager=org.apache.juli.ClassLoaderLogManager
+08-Aug-2022 21:29:15.310 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Command line argument: -Dhttp.nonProxyHosts=localhost|127.0.0.1|DESKTOP-AN6C4VB
+08-Aug-2022 21:29:15.310 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Command line argument: -Djdk.tls.ephemeralDHKeySize=2048
+08-Aug-2022 21:29:15.310 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Command line argument: -Djava.protocol.handler.pkgs=org.apache.catalina.webresources
+08-Aug-2022 21:29:15.310 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Command line argument: -Dignore.endorsed.dirs=
+08-Aug-2022 21:29:15.310 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Command line argument: -Dcatalina.base=C:\Users\win\Desktop\Tool\apache-tomcat-10.0.21
+08-Aug-2022 21:29:15.310 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Command line argument: -Dcatalina.home=C:\Users\win\Desktop\Tool\apache-tomcat-10.0.21
+08-Aug-2022 21:29:15.310 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Command line argument: -Djava.io.tmpdir=C:\Users\win\Desktop\Tool\apache-tomcat-10.0.21\temp
+08-Aug-2022 21:29:15.325 INFO [main] org.apache.catalina.core.AprLifecycleListener.lifecycleEvent Loaded Apache Tomcat Native library [1.2.33] using APR version [1.7.0].
+08-Aug-2022 21:29:15.325 INFO [main] org.apache.catalina.core.AprLifecycleListener.lifecycleEvent APR capabilities: IPv6 [true], sendfile [true], accept filters [false], random [true], UDS [true].
+08-Aug-2022 21:29:15.428 INFO [main] org.apache.catalina.core.AprLifecycleListener.initializeSSL OpenSSL successfully initialized [OpenSSL 1.1.1o  3 May 2022]
+08-Aug-2022 21:29:15.668 INFO [main] org.apache.coyote.AbstractProtocol.init Initializing ProtocolHandler ["http-nio-8080"]
+08-Aug-2022 21:29:15.685 INFO [main] org.apache.catalina.startup.Catalina.load Server initialization in [576] milliseconds
+08-Aug-2022 21:29:15.746 INFO [main] org.apache.catalina.core.StandardService.startInternal Starting service [Catalina]
+08-Aug-2022 21:29:15.746 INFO [main] org.apache.catalina.core.StandardEngine.startInternal Starting Servlet engine: [Apache Tomcat/10.0.21]
+08-Aug-2022 21:29:15.746 INFO [main] org.apache.catalina.startup.HostConfig.deployDescriptor Deploying deployment descriptor [C:\Users\win\Desktop\Tool\apache-tomcat-10.0.21\conf\Catalina\localhost\login.xml]
+08-Aug-2022 21:29:15.770 WARNING [main] org.apache.catalina.startup.HostConfig.deployDescriptor The path attribute with value [/login] in deployment descriptor [C:\Users\win\Desktop\Tool\apache-tomcat-10.0.21\conf\Catalina\localhost\login.xml] has been ignored
+08-Aug-2022 21:29:16.578 INFO [main] org.apache.jasper.servlet.TldScanner.scanJars At least one JAR was scanned for TLDs yet contained no TLDs. Enable debug logging for this logger for a complete list of JARs that were scanned but no TLDs were found in them. Skipping unneeded JARs during scanning can improve startup time and JSP compilation time.
+08-Aug-2022 21:29:16.664 INFO [main] org.apache.catalina.startup.HostConfig.deployDescriptor Deployment of deployment descriptor [C:\Users\win\Desktop\Tool\apache-tomcat-10.0.21\conf\Catalina\localhost\login.xml] has finished in [918] ms
+08-Aug-2022 21:29:16.664 INFO [main] org.apache.catalina.startup.HostConfig.deployDescriptor Deploying deployment descriptor [C:\Users\win\Desktop\Tool\apache-tomcat-10.0.21\conf\Catalina\localhost\WebApplication1.xml]
+08-Aug-2022 21:29:16.665 WARNING [main] org.apache.catalina.startup.HostConfig.deployDescriptor The path attribute with value [/WebApplication1] in deployment descriptor [C:\Users\win\Desktop\Tool\apache-tomcat-10.0.21\conf\Catalina\localhost\WebApplication1.xml] has been ignored
+08-Aug-2022 21:29:16.707 INFO [main] org.apache.catalina.startup.HostConfig.deployDescriptor Deployment of deployment descriptor [C:\Users\win\Desktop\Tool\apache-tomcat-10.0.21\conf\Catalina\localhost\WebApplication1.xml] has finished in [42] ms
+08-Aug-2022 21:29:16.708 INFO [main] org.apache.catalina.startup.HostConfig.deployDirectory Deploying web application directory [C:\Users\win\Desktop\Tool\apache-tomcat-10.0.21\webapps\docs]
+08-Aug-2022 21:29:16.726 INFO [main] org.apache.catalina.startup.HostConfig.deployDirectory Deployment of web application directory [C:\Users\win\Desktop\Tool\apache-tomcat-10.0.21\webapps\docs] has finished in [18] ms
+08-Aug-2022 21:29:16.726 INFO [main] org.apache.catalina.startup.HostConfig.deployDirectory Deploying web application directory [C:\Users\win\Desktop\Tool\apache-tomcat-10.0.21\webapps\examples]
+08-Aug-2022 21:29:17.230 INFO [main] org.apache.catalina.startup.HostConfig.deployDirectory Deployment of web application directory [C:\Users\win\Desktop\Tool\apache-tomcat-10.0.21\webapps\examples] has finished in [504] ms
+08-Aug-2022 21:29:17.231 INFO [main] org.apache.catalina.startup.HostConfig.deployDirectory Deploying web application directory [C:\Users\win\Desktop\Tool\apache-tomcat-10.0.21\webapps\host-manager]
+08-Aug-2022 21:29:17.274 INFO [main] org.apache.catalina.startup.HostConfig.deployDirectory Deployment of web application directory [C:\Users\win\Desktop\Tool\apache-tomcat-10.0.21\webapps\host-manager] has finished in [43] ms
+08-Aug-2022 21:29:17.275 INFO [main] org.apache.catalina.startup.HostConfig.deployDirectory Deploying web application directory [C:\Users\win\Desktop\Tool\apache-tomcat-10.0.21\webapps\manager]
+08-Aug-2022 21:29:17.325 INFO [main] org.apache.catalina.startup.HostConfig.deployDirectory Deployment of web application directory [C:\Users\win\Desktop\Tool\apache-tomcat-10.0.21\webapps\manager] has finished in [50] ms
+08-Aug-2022 21:29:17.325 INFO [main] org.apache.catalina.startup.HostConfig.deployDirectory Deploying web application directory [C:\Users\win\Desktop\Tool\apache-tomcat-10.0.21\webapps\ROOT]
+08-Aug-2022 21:29:17.357 INFO [main] org.apache.catalina.startup.HostConfig.deployDirectory Deployment of web application directory [C:\Users\win\Desktop\Tool\apache-tomcat-10.0.21\webapps\ROOT] has finished in [32] ms
+08-Aug-2022 21:29:17.360 INFO [main] org.apache.coyote.AbstractProtocol.start Starting ProtocolHandler ["http-nio-8080"]
+08-Aug-2022 21:29:17.400 INFO [main] org.apache.catalina.startup.Catalina.start Server startup in [1705] milliseconds
+08-Aug-2022 21:29:19.569 INFO [http-nio-8080-exec-8] org.apache.catalina.startup.HostConfig.deployDescriptor Deploying deployment descriptor [C:\Users\win\Desktop\Tool\apache-tomcat-10.0.21\conf\Catalina\localhost\ATKD_Project#homepage.xml]
+08-Aug-2022 21:29:19.570 WARNING [http-nio-8080-exec-8] org.apache.catalina.startup.HostConfig.deployDescriptor The path attribute with value [/ATKD_Project/homepage] in deployment descriptor [C:\Users\win\Desktop\Tool\apache-tomcat-10.0.21\conf\Catalina\localhost\ATKD_Project#homepage.xml] has been ignored
+08-Aug-2022 21:29:20.211 INFO [http-nio-8080-exec-8] org.apache.jasper.servlet.TldScanner.scanJars At least one JAR was scanned for TLDs yet contained no TLDs. Enable debug logging for this logger for a complete list of JARs that were scanned but no TLDs were found in them. Skipping unneeded JARs during scanning can improve startup time and JSP compilation time.
+08-Aug-2022 21:29:20.231 INFO [http-nio-8080-exec-8] org.apache.catalina.startup.HostConfig.deployDescriptor Deployment of deployment descriptor [C:\Users\win\Desktop\Tool\apache-tomcat-10.0.21\conf\Catalina\localhost\ATKD_Project#homepage.xml] has finished in [662] ms
+08-Aug-2022 21:29:20.235 INFO [http-nio-8080-exec-10] org.apache.catalina.util.LifecycleBase.start The start() method was called on component [StandardEngine[Catalina].StandardHost[localhost].StandardContext[/ATKD_Project/homepage]] after start() had already been called. The second call will be ignored.
+08-Aug-2022 21:36:20.591 INFO [http-nio-8080-exec-1] org.apache.catalina.core.StandardContext.reload Reloading Context with name [/ATKD_Project/homepage] has started
+08-Aug-2022 21:36:20.596 WARNING [http-nio-8080-exec-1] org.apache.catalina.loader.WebappClassLoaderBase.clearReferencesJdbc The web application [ATKD_Project#homepage] registered the JDBC driver [com.microsoft.sqlserver.jdbc.SQLServerDriver] but failed to unregister it when the web application was stopped. To prevent a memory leak, the JDBC Driver has been forcibly unregistered.
+08-Aug-2022 21:36:20.598 SEVERE [http-nio-8080-exec-1] org.apache.catalina.loader.WebappClassLoaderBase.checkThreadLocalMapForLeaks The web application [ATKD_Project#homepage] created a ThreadLocal with key of type [com.microsoft.sqlserver.jdbc.ActivityCorrelator$1] (value [com.microsoft.sqlserver.jdbc.ActivityCorrelator$1@cfe2c19]) and a value of type [com.microsoft.sqlserver.jdbc.ActivityId] (value [14384728-8419-4a1a-bf50-28156b777b1b-1]) but failed to remove it when the web application was stopped. Threads are going to be renewed over time to try and avoid a probable memory leak.
+08-Aug-2022 21:36:20.599 SEVERE [http-nio-8080-exec-1] org.apache.catalina.loader.WebappClassLoaderBase.checkThreadLocalMapForLeaks The web application [ATKD_Project#homepage] created a ThreadLocal with key of type [com.microsoft.sqlserver.jdbc.ActivityCorrelator$1] (value [com.microsoft.sqlserver.jdbc.ActivityCorrelator$1@cfe2c19]) and a value of type [com.microsoft.sqlserver.jdbc.ActivityId] (value [c3e616d3-99c6-4d80-bd9a-113d8e5aee82-1]) but failed to remove it when the web application was stopped. Threads are going to be renewed over time to try and avoid a probable memory leak.
+08-Aug-2022 21:36:21.128 INFO [http-nio-8080-exec-1] org.apache.jasper.servlet.TldScanner.scanJars At least one JAR was scanned for TLDs yet contained no TLDs. Enable debug logging for this logger for a complete list of JARs that were scanned but no TLDs were found in them. Skipping unneeded JARs during scanning can improve startup time and JSP compilation time.
+08-Aug-2022 21:36:21.147 INFO [http-nio-8080-exec-1] org.apache.catalina.core.StandardContext.reload Reloading Context with name [/ATKD_Project/homepage] is completed
+08-Aug-2022 21:42:36.608 INFO [main] org.apache.catalina.core.StandardServer.await A valid shutdown command was received via the shutdown port. Stopping the Server instance.
+08-Aug-2022 21:42:36.609 INFO [main] org.apache.coyote.AbstractProtocol.pause Pausing ProtocolHandler ["http-nio-8080"]
+08-Aug-2022 21:42:36.616 INFO [main] org.apache.catalina.core.StandardService.stopInternal Stopping service [Catalina]
+08-Aug-2022 21:42:36.622 WARNING [main] org.apache.catalina.loader.WebappClassLoaderBase.clearReferencesJdbc The web application [ATKD_Project#homepage] registered the JDBC driver [com.microsoft.sqlserver.jdbc.SQLServerDriver] but failed to unregister it when the web application was stopped. To prevent a memory leak, the JDBC Driver has been forcibly unregistered.
+08-Aug-2022 21:42:36.623 SEVERE [main] org.apache.catalina.loader.WebappClassLoaderBase.checkThreadLocalMapForLeaks The web application [ATKD_Project#homepage] created a ThreadLocal with key of type [com.microsoft.sqlserver.jdbc.ActivityCorrelator$1] (value [com.microsoft.sqlserver.jdbc.ActivityCorrelator$1@2da66a44]) and a value of type [com.microsoft.sqlserver.jdbc.ActivityId] (value [467784c1-dd0b-4673-9e6b-33a9e3252116-1]) but failed to remove it when the web application was stopped. Threads are going to be renewed over time to try and avoid a probable memory leak.
+08-Aug-2022 21:42:36.636 INFO [main] org.apache.coyote.AbstractProtocol.stop Stopping ProtocolHandler ["http-nio-8080"]
+08-Aug-2022 21:42:36.643 INFO [main] org.apache.coyote.AbstractProtocol.destroy Destroying ProtocolHandler ["http-nio-8080"]
